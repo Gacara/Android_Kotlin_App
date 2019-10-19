@@ -1,6 +1,5 @@
 # Consigne projet Android
 
-## Partir de ce qui à été réalisé en cours :
 
 - [x] Une première activité qui affiche une liste d'articles et leurs auteurs récupérées de l'API jsonplaceholder.typicode.com
 
@@ -32,12 +31,3 @@
 
 - [x] Rendre le texte de l'article scrollable.
 
-
-## Rendu :
-
-Mettre le projet sur GitHub et envoyer le lien du Git à l'adresse mail : salomon@kodein.net
-
-
-## Date de rendu :
-
-(Avant) Dimanche 26 mai 00h
