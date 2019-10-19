@@ -8,9 +8,9 @@
 
 ## Exigences :
 
-- [ ] Dans le second fragment, afficher les commentaires liés à l'article (il faudra donc ajouter une méthode à l'interface API utilisée par Retrofit)
+- [x] Dans le second fragment, afficher les commentaires liés à l'article (il faudra donc ajouter une méthode à l'interface API utilisée par Retrofit)
 
-- [x] Dans le troisièmme fragment, afficher toutes les informations de l'auteur.
+- [x] Dans le troisième fragment, afficher toutes les informations de l'auteur.
 
 - [x] Dans la liste de la première activité, faire en sorte que le titre de chaque article tienne sur une ligne et affiche '...' à la fin de la ligne si le titre est trop grand
 
